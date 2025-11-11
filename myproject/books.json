@@ -1,0 +1,62 @@
+[
+{
+  "model": "codegraphers.book",
+  "pk": 1,
+  "fields": {
+    "title": "My Life and Strgul",
+    "author": 1,
+    "price": "350.00",
+    "published_date": "2025-11-07",
+    "isbn": "93232",
+    "is_available": true
+  }
+},
+{
+  "model": "codegraphers.book",
+  "pk": 2,
+  "fields": {
+    "title": "Python Basics",
+    "author": 2,
+    "price": "29.99",
+    "published_date": "2024-01-01",
+    "isbn": "1111111111111",
+    "is_available": true
+  }
+},
+{
+  "model": "codegraphers.book",
+  "pk": 3,
+  "fields": {
+    "title": "Django Advanced",
+    "author": 2,
+    "price": "39.99",
+    "published_date": "2024-06-01",
+    "isbn": "2222222222222",
+    "is_available": true
+  }
+},
+{
+  "model": "codegraphers.book",
+  "pk": 4,
+  "fields": {
+    "title": "Space Adventures",
+    "author": 3,
+    "price": "25.99",
+    "published_date": "2024-03-15",
+    "isbn": "3333333333333",
+    "is_available": true
+  }
+},
+{
+  "model": "codegraphers.book",
+  "pk": 5,
+  "fields": {
+    "title": "Alien Worlds",
+    "author": 3,
+    "price": "35.99",
+    "published_date": "2024-07-20",
+    "isbn": "4444444444444",
+    "is_available": true
+  }
+}
+]
